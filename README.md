@@ -1,0 +1,2 @@
+# Hangman
+hang the man
